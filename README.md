@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Tech Stack](https://img.shields.io/badge/MERN-Stack-blue)
+![Tech Stack](https://img.shields.io/badge/ASP-Stack-blue)
 
 # Safety E-Stop Monitoring & Control System
 
