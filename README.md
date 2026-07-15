@@ -23,8 +23,6 @@ The Safety E-Stop Monitoring & Control System was developed to simulate and moni
 
 ✅ Safety Event Logging
 
-✅ Emergency Shutdown Simulation
-
 ✅ System Status Dashboard
 
 ✅ REST API Integration
@@ -57,7 +55,7 @@ The Safety E-Stop Monitoring & Control System was developed to simulate and moni
 - Visual Studio
 - VS Code
 - Git
-- GitHub
+
 
 ---
 
